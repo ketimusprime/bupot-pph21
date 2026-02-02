@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="KetimusPrime.png" width="180" alt="Project Logo">
+  <img src="KetimusPrime.png" width="180" alt="Logo Me">
 </p>
 
 <h1 align="center">Laravel + Filament Bukti Potong PPh 21</h1>
@@ -32,8 +32,8 @@
 ## ⚙️ Installation (Local)
 
 ```bash
-git clone https://github.com/username/bupot-pph21.git
-cd portofolio-laravel-filament
+git clone https://github.com/ketimusprime/bupot-pph21.git
+cd bupot-pph21
 
 composer install
 npm install && npm run build
